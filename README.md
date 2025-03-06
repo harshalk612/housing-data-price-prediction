@@ -23,8 +23,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn xgboost
 ## Usage  
 1. Clone the repository:  
    ```bash  
-   git clone <repository_link>  
-   cd housing_price_prediction  
+   git clone https://github.com/harshalk612/housing-data-price-prediction.git  
+   cd housing-data-price-prediction  
    ```  
 2. Open the Jupyter Notebook:  
    ```bash  
